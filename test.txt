@@ -1,2 +1,3 @@
 this is frist txt file of git
 this if second text file of git
+change file
